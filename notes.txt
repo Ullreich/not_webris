@@ -1,0 +1,1 @@
+use browserify (https://browserify.org/) to package my javascript.
